@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**Vordead/vordead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Mohamad Hamade, an Android Developer passionate about latest trends and technologies.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Private Projects
+
+## 🌱 Currently Learning
+
+- Android
+
+## 👯 Looking to Collaborate On
+
+I'm interested in collaborating on projects related to Android Libraries.
+
+## 📫 How to Reach Me
+
+You can reach me via:
+
+- mohamadhamade30@gmail.com
+- https://www.linkedin.com/in/mohamad-hamade-b51503155/
+
+## ⚡ Fun Fact
+
+I use alpha versions 😁
