@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Mohamad Hamade, an Android Developer passionat
 ## 🌱 Currently Learning
 
 - Android
+- Advanced Algorithms and Data Structures
 
 ## 👯 Looking to Collaborate On
 
