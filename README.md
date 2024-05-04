@@ -20,7 +20,7 @@ I'm interested in collaborating on projects related to Android Libraries.
 You can reach me via:
 
 - [Email](mailto:mohamadhamade30@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mohamad-hamade-b51503155/)
+- [LinkedIn](https://www.linkedin.com/in/mohamad-hamade)
 
 ## ⚡ Fun Fact
 
