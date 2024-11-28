@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Moe, a passionate Android Developer focused on
 
 ## 🔭 Currently Working On
 
-- **Career Growth**: Aiming to become an Android Senior Developer by the end of 2025.  
+- **Career Growth**: Aiming to become a Senior Android Developer by the end of 2025.
 - **Stay Safe App**: A crisis management tool with real-time updates and location-based features.  
 - **Pixel UI Library**: An open-source multiplatform design system built with Jetpack Compose and SwiftUI.  
 
