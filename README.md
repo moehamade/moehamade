@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm Moe, a passionate Android Developer with 3 yea
 
 ## 🔭 Currently Working On
 
-- **Career Growth**: Aiming to become a Senior Android Developer by the end of 2025.
 - **Stealth Project**: Think Maps, social media, and chat.  
 
 ## 🌱 Currently Learning
