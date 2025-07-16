@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I'm Moe, a passionate Android Developer with 3 years of experience focused on Kotlin, Jetpack Compose, and crafting intuitive, high-performance mobile applications. Beyond coding, I enjoy hiking ˚˖𓍢ִ໋🍃˚⛰️⋆☁️, photography 📸, partying °🥂⋆.ೃ🪩♫*•, and meeting new people  (˶ᵔ ᵕ ᵔ˶).
+Welcome to my GitHub profile! I'm Moe, a passionate Android Engineer with 5 years of experience focused on Kotlin, Jetpack Compose, and crafting intuitive, high-performance mobile applications. Beyond coding, I enjoy hiking ˚˖𓍢ִ໋🍃˚⛰️⋆☁️, photography 📸, partying °🥂⋆.ೃ🪩♫*•, and meeting new people  (˶ᵔ ᵕ ᵔ˶).
 
 ## 🔭 Currently Working On
 
