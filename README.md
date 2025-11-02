@@ -30,13 +30,11 @@ I focus on **Jetpack Compose**, **Kotlin**, and **system designs** that make app
 
 When I’m not coding, you’ll find me **hiking** or **capturing photos of the world around me**.  
 
-<br>
 
 ### ✍️ Currently
 - Writing on [Medium](https://medium.com/@moehamade) about all sort of stuff I encounter.  
 - Exploring **multiplatform development** and refining **clean architecture patterns**.  
 
-<br>
 
 ### ⚙️ Tech Stack
 <p align="center">
