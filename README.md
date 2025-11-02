@@ -64,12 +64,12 @@ I focus on clarity, maintainability, and elegance — in UI, architecture, and c
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moehamade&theme=github_dark" alt="Moe's GitHub Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moehamade&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moehamade&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moehamade&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moehamade&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moehamade&theme=github_dark" alt="Moe's GitHub Summary" />
 </p>
 
 ---
