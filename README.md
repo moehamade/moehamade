@@ -49,9 +49,9 @@ When I’m not coding, you’ll find me **hiking** or **capturing photos of the 
 
 ---
 
-### 💡 Philosophy
-> *“Great apps are functional, but they should feel effortless.”*  
-I focus on clarity, maintainability, and elegance — in UI, architecture, and code.
+### 🎯 Product Mindset
+I believe UX matters most — users are the ones who decide if an app feels good enough to keep using.
+So I optimize for clarity, speed, and smooth flows in every feature I build.
 
 <br>
 
